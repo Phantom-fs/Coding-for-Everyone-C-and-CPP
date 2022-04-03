@@ -2,6 +2,7 @@
 sine function for an input x between (0, 1) (week 2)
 */
 //Coder: Phantom-fs
+
 #include <stdio.h>
 #include <math.h>   //maths library have functions like sqrt, sin, cos etc.
 
