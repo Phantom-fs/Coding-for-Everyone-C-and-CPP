@@ -1,5 +1,5 @@
 # Coursera
-Programming Assignment's answers from Coursera's Course:-
+Programming Assignment's answers from Coursera's Course:
 
 Coding for Everyone: C and C++
       by University of California, Santa Cruz
