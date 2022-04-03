@@ -12,6 +12,8 @@ int main(void)
   double interval, sine_val, cosine_val;    //declaration of variables
   int i;
 
+  printf("Sine & Cosine table in (0,1) range\n");
+  
   printf("\n++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n");
 
   for(i = 0; i <= 50; i++)
