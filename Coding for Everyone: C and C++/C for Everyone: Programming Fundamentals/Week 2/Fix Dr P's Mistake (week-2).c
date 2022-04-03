@@ -2,6 +2,7 @@
 Fix Dr. P’s mistake (week 2)
 */
 //Program about calculating Sphere's volume
+//Coder: Phantom-fs
 
 #include<stdio.h>
 #define PI 22/7   //or can define PI by 3.14159, once defined it can be assigned any other value
