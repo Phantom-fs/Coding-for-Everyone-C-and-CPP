@@ -1,1 +1,12 @@
-
+/*
+Fix Dr P's mistake
+week 1
+*/
+//by Phantom-fs
+#include <stdio.h>
+int main(void)
+{
+    //the mistake was resolved by using double Quotes instead of single quotes
+    printf("hello world\n");
+    return 0;
+}
