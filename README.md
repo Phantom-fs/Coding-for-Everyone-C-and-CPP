@@ -1,4 +1,4 @@
-# Coursera
+# Coding for Everyone: C and C++
 Programming Assignment's answers from Coursera's Course:
 
 Coding for Everyone: C and C++
