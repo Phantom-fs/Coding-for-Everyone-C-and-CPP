@@ -5,4 +5,4 @@ Programming Assignment's answers from different Coursera Courses
 Coding for Everyone: C and C++
   by University of California, Santa Cruz
   
-  1. C for Everyone: Programming Fundamentals
+   1. C for Everyone: Programming Fundamentals
