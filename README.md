@@ -13,4 +13,4 @@ Coding for Everyone: C and C++
 
 *Free to use code*
 
-*Please refrain from submitting the same code in assignment as its plagiarism and your account may get deactivated, this answers are only provided as an example and for understand*
+*Please refrain from submitting the same code in assignment as its plagiarism and your account may get deactivated, this answers are only provided as an example and for understanding*
