@@ -10,7 +10,7 @@ ANS. None of the above
 //According to the enum declaration
   false = 0 (Decleartion starts from 0)
   true = 1
-  maybe = 2 
+  maybe = 2
 
 ********************************************************************************************************************************************
 
