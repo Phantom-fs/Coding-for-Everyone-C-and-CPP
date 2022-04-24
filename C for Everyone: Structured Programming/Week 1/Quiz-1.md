@@ -3,6 +3,7 @@ QUIZ-1 Answers withReasoning
 ********************************************************************************************************************************************
 
 Q1. What is the value of false in the following enum declaration:
+
       enum fuzzy_logic{ false, true, maybe};
 
 ANS. None of the above
@@ -39,8 +40,10 @@ ANS. 0
 ********************************************************************************************************************************************
 
 Q3. If we use an assertion as in
+
         assert(cond1 && cond2);
-    and cond1 is 1 then
+      
+   and cond1 is 1 then
 
 ANS. If cond2 is 1 the program keeps running.
 
@@ -49,6 +52,7 @@ ANS. If cond2 is 1 the program keeps running.
 ********************************************************************************************************************************************
 
 Q4. What is the value of true in the enum declaration?
+
         enum fuzzy_logic{ false, true, maybe};
 
 ANS. 1
@@ -61,6 +65,7 @@ ANS. 1
 ********************************************************************************************************************************************
 
 Q5. What is the value of true in the enum declaration?
+
          enum fuzzy_logic{ false, maybe, true};
          
 ANS. 2   
@@ -73,6 +78,7 @@ ANS. 2
 ********************************************************************************************************************************************
 
 Q6. If we use an assertion as in
+
          assert(cond1 || cond2);
          
  ANS. If cond2 is 1 the program keeps running.   
@@ -82,6 +88,7 @@ Q6. If we use an assertion as in
 ********************************************************************************************************************************************
 
 Q7. If we use an assertion as in
+
          assert(cond1 || cond2); 
          
 ANS. The program keeps running
@@ -145,7 +152,8 @@ ANS. 1
 ********************************************************************************************************************************************
 
 Q10. If we use an assertion as in
-         *assert(cond1 && cond2); 
+
+         assert(cond1 && cond2); 
          
 ANS. cond2 is not evaluated and the program aborts
 
