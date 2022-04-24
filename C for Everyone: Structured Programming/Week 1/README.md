@@ -1,2 +1,4 @@
--NO Assignments for Week - 1. 
+-NO Assignments for Week - 1
 -Only Quiz
+
+Quiz Qs & ANS provided
