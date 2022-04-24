@@ -1,3 +1,9 @@
+/*
+Average weight of Elephant Seals read into an array
+*/
+//Taking the average using the data provided by the user from the data.txt file. Then computing the avg using that data
+//Coder: Phantom-fs
+
 #include <stdio.h>
 #include <stdlib.h>
 
