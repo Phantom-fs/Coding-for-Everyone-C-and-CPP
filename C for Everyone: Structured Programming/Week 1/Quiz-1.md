@@ -9,7 +9,7 @@ Q1. What is the value of false in the following enum declaration:
 ANS. None of the above
 
 //According to the enum declaration
-  false = 0 (Decleartion starts from 0)
+  false = 0 (Declaration starts from 0)
   true = 1
   maybe = 2
 
