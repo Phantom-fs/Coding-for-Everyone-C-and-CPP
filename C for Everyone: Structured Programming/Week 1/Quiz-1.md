@@ -145,7 +145,7 @@ ANS. 1
 ********************************************************************************************************************************************
 
 Q10. If we use an assertion as in
-         **assert(cond1 && cond2); 
+         *assert(cond1 && cond2); 
          
 ANS. cond2 is not evaluated and the program aborts
 
