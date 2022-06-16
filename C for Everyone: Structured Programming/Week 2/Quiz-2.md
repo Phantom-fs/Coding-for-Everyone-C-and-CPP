@@ -13,7 +13,7 @@ Q1. In the struct
   
 ANS. 2.5
 
-//*x is assigned to 2.5 and y to 4.0
+//*x is assigned to 2.5 and y to 4.0*
 
 ********************************************************************************************************************************************
 
@@ -32,7 +32,7 @@ Q2. If we have pointer
    
 ANS. 4.0
 
-//*y is assigned to 4.0
+//*y is assigned to 4.0*
 
 ********************************************************************************************************************************************
 
@@ -40,7 +40,7 @@ Q3. Which is a basic elementary operation for a stack
 
 ANS. Empty
 
-//*returns stack to empty state
+//*returns stack to empty state*
 
 
 ********************************************************************************************************************************************
@@ -58,7 +58,7 @@ Q4. In the code snippet
    
 ANS. 4.000000
 
-//*double using the %f format specifier i.e. upto 6 decimal places
+//*double using the %f format specifier i.e. upto 6 decimal places*
 
 ********************************************************************************************************************************************
 
@@ -75,7 +75,7 @@ Q5. in the code snippet
    
 ANS. 2.500000
 
-//*%f format specifier i.e. upto 6 decimal places
+//*%f format specifier i.e. upto 6 decimal places*
 
 ********************************************************************************************************************************************
 
@@ -94,7 +94,7 @@ Q6. If we have pointer
    
 ANS. 0.0
 
-//*doubles x and y are initialized to 0, when we typed p1
+//*doubles x and y are initialized to 0, when we typed p1*
 
 ********************************************************************************************************************************************
 
@@ -113,7 +113,7 @@ Q7. If we have pointer
     
 ANS. 2.5
 
-//*In this case, x is assigned to 2.5 while y is initialized to 0
+//*In this case, x is assigned to 2.5 while y is initialized to 0*
 
 ********************************************************************************************************************************************
 
@@ -121,7 +121,7 @@ Q8. What operation would you use to add something onto a stack?
 
 ANS. Push
 
-//*adds new items to the stack
+//*adds new items to the stack*
 
 ********************************************************************************************************************************************
 
@@ -129,7 +129,7 @@ Q9. If we push all the elements of the array int data[20]; onto a stack – the 
 
 ANS. data[0]
 
-//*This was the first element added, so it is at the bottom. Example of LIFO (Last In First Out)
+//*This was the first element added, so it is at the bottom. Example of LIFO (Last In First Out)*
 
 ********************************************************************************************************************************************
 
@@ -148,6 +148,6 @@ Q10. If we have pointer
 
 ANS. 4
 
-//*y is given the value of x which is 4. y is declared as a pointer to x, thus ptr-> y points to y, which then points to x i.e. double 4
+//*y is given the value of x which is 4. y is declared as a pointer to x, thus ptr-> y points to y, which then points to x i.e. double 4*
 
 ********************************************************************************************************************************************
