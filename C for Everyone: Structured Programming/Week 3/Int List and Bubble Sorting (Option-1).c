@@ -7,7 +7,7 @@ Program to create a int list with random input and bubble sort the contents
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
-#include <time.h>        //needed for seed() for srand()
+#include <time.h>        //needed for seed() for srand() for use of random number creation 
 
 #define SIZE 100         //list of 100 integer elements
 
