@@ -1,13 +1,13 @@
 # COURSERA
 # Coding for Everyone: C and C++
 
-Coding for Everyone: C and C++
-      by University of California, Santa Cruz
+[Coding for Everyone: C and C++](https://www.coursera.org/specializations/coding-for-everyone)
+         *by University of California, Santa Cruz*
   
-    1. C for Everyone: Programming Fundamentals
-    2. C for Everyone: Structured Programming
-    3. C++ For C Programmers, Part A
-    4. C++ For C Programmers, Part B
+  >* [C for Everyone: Programming Fundamentals](https://www.coursera.org/learn/c-for-everyone?specialization=coding-for-everyone)
+  >* [C for Everyone: Structured Programming](https://www.coursera.org/learn/c-structured-programming?specialization=coding-for-everyone)
+  >* [C++ For C Programmers, Part A](https://www.coursera.org/learn/c-plus-plus-a?specialization=coding-for-everyone)
+  >* [C++ For C Programmers, Part B](https://www.coursera.org/learn/c-plus-plus-b?specialization=coding-for-everyone)
 
 -*THESE CODES ARE ONLY PROVIDED FOR EDUCATIONAL PURPOSES*
 
