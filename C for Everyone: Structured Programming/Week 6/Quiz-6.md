@@ -41,7 +41,7 @@ ANS. False
 
 
 //*Its A function is used to assign a specified amount of memory, it also returns a pointer to the space allocated in 
-  *memory using this function*
+   memory using this function*
   
 ********************************************************************************************************************************************
 
